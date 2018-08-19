@@ -1,3 +1,5 @@
+.. include:: <isopub.txt>
+
 Summary of Date's book Datebase in Depth
 ----------------------------------------
 
