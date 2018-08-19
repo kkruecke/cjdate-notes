@@ -1,0 +1,4 @@
+todo
+====
+
+Replace the RST tables with the raw HTML tables in ~/books-courses/cjdate/cjdatenotes.html

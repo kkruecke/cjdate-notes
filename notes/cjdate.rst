@@ -1528,9 +1528,8 @@ conceptually) in three steps.
 
 #. The FROM clause ...
 #. Next, the WHERE clause ...
-#. 
 
-To be done later...(See Simple SQL).
+.. todo:: To be done later...(See Simple SQL).
 
 Examples
 ^^^^^^^^
@@ -3275,6 +3274,3 @@ implementation issues:
 
 #. protecting against injection attacks
 #. ???
-
-.. |an image| image:: ./division-2.gif
-
