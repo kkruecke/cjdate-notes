@@ -9,9 +9,9 @@ tuple or tuple value
 
 Definition: Let *T1, T2, ..., Tn* (*n* ≥= 0) be type names, not all
 necessarily distinct. Associate with each type *Ti* a distinct attribute
-name, *Ai*; each of the *n* attribute name–type name pairs that results
+name, *Ai*; each of the *n* attribute-name:type-name pairs that results
 is an *attribute*. Associate with each attribute a value *vi* of type
-*Ti*; each of the *n* attribute–value combinations that results is a
+*Ti*; each of the *n* attribute:value combinations that results is a
 *component*. The set of all *n* components thus defined, *t* say, is a
 *tuple value* (or just *tuple* for short) over the attributes *A1, A2,
 ..., An*. The value *n* is the *degree* of *t*; a tuple of degree one is
