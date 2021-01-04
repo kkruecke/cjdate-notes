@@ -99,7 +99,7 @@ html_static_path = ['_static']
 
 #Kurt:
 def setup(app):
-    app.add_stylesheet('css/kurt.css')
+    app.add_css_file('css/kurt.css')
 
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
