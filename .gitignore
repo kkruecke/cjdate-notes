@@ -2,5 +2,4 @@ _build/
 *.tar.gz
 *.swp
 Makefile
-_static/
 _template/
